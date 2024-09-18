@@ -2,10 +2,6 @@
 	Embers Rekindled x Aetherworks - Ponders by 'RQT
 */
 
-const $GlowParticleOptions = Java.loadClass("com.rekindled.embers.particle.GlowParticleOptions");
-const $AWUtils = Java.loadClass("net.sirplop.aetherworks.util.Utils");
-const $CreateEmitter = Java.loadClass("com.simibubi.create.foundation.ponder.instruction.EmitParticlesInstruction");
-
 Ponder.registry(event => {			
 	event.create([
 		'aetherworks:prism', 
