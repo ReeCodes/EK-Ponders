@@ -1,5 +1,5 @@
 /*
-	Embers Rekindled - Ponders by 'RQT
+	Embers Rekindled x Aetherworks - Ponders by 'RQT
 */
 
 const $GlowParticleOptions = Java.loadClass("com.rekindled.embers.particle.GlowParticleOptions");

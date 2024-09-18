@@ -1,3 +1,7 @@
+/*
+	Embers Rekindled x Aetherworks - Ponders by 'RQT
+*/
+
 Ponder.registry(event => {
 	event.create([
 			'embers:hearth_coil',
