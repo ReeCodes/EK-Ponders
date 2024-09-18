@@ -1,3 +1,7 @@
+/*
+	Embers Rekindled - Ponders by 'RQT
+*/
+
 const $AABB = Java.loadClass("net.minecraft.world.phys.AABB");
 const $GlowParticleOptions = Java.loadClass("com.rekindled.embers.particle.GlowParticleOptions");
 const $SmokeParticleOptions = Java.loadClass("com.rekindled.embers.particle.SmokeParticleOptions");
